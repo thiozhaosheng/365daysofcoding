@@ -1,1 +1,0 @@
-#Resources to use for reference.
