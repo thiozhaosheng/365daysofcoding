@@ -1,5 +1,5 @@
 p{
-  font-family: arial;
+  font-family: Roboto;
   margin-bottom: 0;
   margin-bottom: 0;
 }
@@ -8,15 +8,13 @@ p{
 
 .para{
   font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   width: 380px;
   line-height: 28px;
-  margin-bottom: 5;
+  margin-bottom: 10px;
 }
 
 .views-info{
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   color:gray;
   margin-top: 0;
@@ -24,14 +22,12 @@ p{
 }
 
 .brownlee{
-font-family: Arial, Helvetica, sans-serif;
 font-size: 14px;
 color:gray;
 }
 
 
 .sentence{
-font-family: Arial, Helvetica, sans-serif;
 font-size: 14px;
 color:gray;
 margin-top: 10px;
