@@ -1,0 +1,61 @@
+p{
+  font-family: arial;
+  margin-bottom: 0;
+  margin-bottom: 0;
+}
+
+
+
+.para{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  width: 380px;
+  line-height: 28px;
+  margin-bottom: 5;
+}
+
+.views-info{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color:gray;
+  margin-top: 0;
+  margin-bottom: 18;
+}
+
+.brownlee{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color:gray;
+}
+
+
+.sentence{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color:gray;
+margin-top: 10px;
+width: 380px;
+line-height: 18px;
+}
+
+
+
+.applesen{
+font-size: 14px;
+background-color: rgb(266,65,64);
+color: white;
+text-align: center;
+padding-top: 15px;
+padding-bottom: 15px;
+margin-top: 50px;
+}
+
+.hover:hover{
+text-decoration: underline;
+}
+
+.hover{
+cursor: pointer;
+margin-left: 250px;
+}
