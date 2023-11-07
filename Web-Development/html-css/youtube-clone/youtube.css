@@ -1,0 +1,15 @@
+.thumbnail1{
+    width: 300px;
+    display: block;
+}
+
+.searchbox{
+    display:block
+}
+
+
+.firstcont,
+.secondcont{
+    display: inline-block;
+    width: 300px;
+}
