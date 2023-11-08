@@ -4,17 +4,14 @@
 
 
 .thumnail1{
-    width: 300px;
+   width:100%;
 }
 
 .channel-picture{
-    display: inline-block;
-    width: 50px;
     vertical-align: top;
 }
 
 .video-info{
-    display: inline-block;
     width: 200px;
     margin-left: 18px;
 }
@@ -52,8 +49,14 @@ p{
     margin-bottom: 4px;
 }
 
-.videopreview{
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 20px;
+.video-info-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 40px;
 }
