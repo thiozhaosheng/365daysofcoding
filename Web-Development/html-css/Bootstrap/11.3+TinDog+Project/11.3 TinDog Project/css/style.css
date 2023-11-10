@@ -19,10 +19,16 @@
 .icon-square {
   width: 3rem;
   height: 3rem;
-  border-radius: 0.75rem;
+  border-radius: 1rem;
 }
 
 .profile-img {
   height: 100px;
   border-radius: 50%;
+}
+
+.dogpic{
+  border-radius: 50%;
+  height: 100px;
+  margin: 5px 2px;
 }

@@ -71,9 +71,8 @@ Unlimited App Usage
 Labrador
 $15/mo
 Unlimited Matches
-Unlimited Messages
-Unlimited App Usage
-
+Unlimited Matches
+Unlimited Matches
 Mastiff
 $29/mo
 Pirority Listing
